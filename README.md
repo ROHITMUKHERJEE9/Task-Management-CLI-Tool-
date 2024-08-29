@@ -16,9 +16,9 @@ The **Task Manager CLI Tool** is a simple command-line interface (CLI) applicati
 
 To run the Task Manager CLI Tool, use the following command:
 
-```sh
+*
 python task_manager.py
-```
+*
 
 ### Commands
 
@@ -44,7 +44,6 @@ Once the tool is running, we will be presented with an options menu:
 
 ### Example
 
-```sh
 Task Manager
 1. Add Task
 2. View Tasks
@@ -62,10 +61,10 @@ Task Manager
 5. Exit
 Choose an option: 2
 1. Buy groceries
-```
+
 
 ## File Structure
 
-- `CODE`: The file which contains main script that runs the CLI Task Manager.
-- `tasks.txt`: The file where all tasks are stored.
+- **CODE**: The file which contains main script that runs the CLI Task Manager.
+- **tasks.txt**: The file where all tasks are stored.
 
