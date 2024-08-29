@@ -50,13 +50,9 @@ Task Manager
 5. Exit
    
 
-* Choose an option: 1.
-* Enter the task Buy groceries.
+* Choose an option: 1
+* Enter the task Buy groceries
 * Added task: Buy groceries
-
-------------------------------------
-Choose an option: 1
-Enter the task: Buy groceries
 
 -------------------------------------
 Task Manager
