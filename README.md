@@ -16,9 +16,7 @@ The **Task Manager CLI Tool** is a simple command-line interface (CLI) applicati
 
 To run the Task Manager CLI Tool, use the following command:
 
-*
-python task_manager.py
-*
+*python task_manager.py*
 
 ### Commands
 
@@ -26,18 +24,18 @@ Once the tool is running, we will be presented with an options menu:
 
 1. **Add Task**
    - Prompts us to enter the task description.
-   - Example: `Enter the task: Buy groceries`
+   - Example: *Enter the task: Buy groceries*
 
 2. **View Tasks**
    - Displays all current tasks with their corresponding number.
 
 3. **Complete Task**
    - Prompts us to enter the task number to mark as complete.
-   - Example: `Enter the task number to complete: 2`
+   - Example: *Enter the task number to complete: 2*
 
 4. **Delete Task**
    - Prompts us to enter the task number to delete.
-   - Example: `Enter the task number to delete: 1`
+   - Example: *Enter the task number to delete: 1*
 
 5. **Exit**
    - Exits the tool.
@@ -50,15 +48,19 @@ Task Manager
 3. Complete Task
 4. Delete Task
 5. Exit
+   
 Choose an option: 1
 Enter the task: Buy groceries
 Added task: Buy groceries
+
+-------------------------------------
 Task Manager
 1. Add Task
 2. View Tasks
 3. Complete Task
 4. Delete Task
 5. Exit
+   
 Choose an option: 2
 1. Buy groceries
 
