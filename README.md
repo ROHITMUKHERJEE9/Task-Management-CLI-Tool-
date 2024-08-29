@@ -49,9 +49,12 @@ Task Manager
 4. Delete Task
 5. Exit
    
-Choose an option: 1\n
-\nEnter the task: Buy groceries\n
+```sh
+Choose an option: 1
+Enter the task: Buy groceries
 Added task: Buy groceries
+```
+
 
 -------------------------------------
 Task Manager
