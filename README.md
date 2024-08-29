@@ -84,14 +84,6 @@ Choose an option: 2
 - `task_manager.py`: The main script that runs the CLI Task Manager.
 - `tasks.txt`: The file where all tasks are stored. This file is automatically created in the same directory as the script.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Acknowledgments
 
 This tool was developed as a simple demonstration of how to create a basic CLI application in Python.
-
----
-
-This README provides clear instructions and explanations to help users understand how to use your Task Manager CLI tool.
