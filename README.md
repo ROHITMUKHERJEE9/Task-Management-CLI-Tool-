@@ -50,7 +50,7 @@ Task Manager
 5. Exit
    
 
-Choose an option: 1
+Choose an option: 1/n
 Enter the task: Buy groceries
 Added task: Buy groceries
 
