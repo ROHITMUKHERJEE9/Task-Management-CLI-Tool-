@@ -3,7 +3,7 @@ Here's a brief README file for the CLI Task Manager tool:
 
 ## Description
 
-The **Task Manager CLI Tool** is a simple command-line interface (CLI) application that helps us manage our daily tasks. We can easily add, view, complete, and delete tasks. All tasks are stored in a `tasks.txt` file, ensuring that our task list persists between sessions.
+The **Task Manager CLI Tool** is a simple command-line interface (CLI) application that helps us manage our daily tasks. We can easily add, view, complete, and delete tasks. All tasks are stored in a **tasks.txt** file, ensuring that our task list persists between sessions.
 
 ## Features
 
